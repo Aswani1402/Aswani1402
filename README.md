@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Aswani A. J 👋</h1>
 
 <h3 align="center">
