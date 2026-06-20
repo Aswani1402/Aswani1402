@@ -1,4 +1,4 @@
-````markdown
+markdown
 <h1 align="center">Hi, I'm Aswani A. J 👋</h1>
 
 <h3 align="center">
@@ -185,4 +185,3 @@ Push to GitHub
 <p align="center">
   <b>Learning by building practical projects and improving one repository at a time.</b>
 </p>
-```
