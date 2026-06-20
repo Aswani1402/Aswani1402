@@ -1,211 +1,188 @@
+````markdown
 <h1 align="center">Hi, I'm Aswani A. J 👋</h1>
 
 <h3 align="center">
-B.Tech Artificial Intelligence Graduate | Python | AI/ML | RAG | Backend | Data Analytics
+AI & Backend Developer | Python | RAG | Machine Learning | Data Analytics
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=B.Tech+AI+Graduate+Awaiting+Convocation;Building+AI%2FML%2C+RAG%2C+Backend+and+Data+Projects;Learning+Python%2C+SQL%2C+DSA%2C+ML%2C+DL+and+LLMs;Preparing+for+AI%2FML%2C+Backend+and+Data+Roles" />
+I build practical AI, RAG, backend, and data projects with a focus on clean implementation, useful documentation, and real-world problem solving.
 </p>
 
 <p align="center">
   <a href="mailto:aswiniayappan14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aswiniayappan14%40gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-aswiniayappan14%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/aswani-a-j-933269268/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aswani%20A.%20J-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Aswani%20A.%20J-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Aswani1402">
-    <img src="https://img.shields.io/badge/GitHub-Aswani1402-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Aswani1402-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
 I have completed my B.Tech in Artificial Intelligence from Amrita Vishwa Vidyapeetham.
 
-I am currently building project for related to **AI/ML, NLP, LLM, RAG, backend development, data analytics, GENAI and Agentic AI**. My focus is on learning by building practical projects, improving my coding fundamentals, and documenting my work clearly on GitHub.
+I am currently building placement-ready projects in **AI/ML, RAG systems, backend development, data analytics, and GenAI applications**. My focus is to build projects that are not only technically useful, but also easy to understand, run, and review.
 
-I am interested in:
+I am especially interested in:
 
-* Artificial Intelligence and Machine Learning
-* Retrieval-Augmented Generation systems
-* LLM-powered applications
-* Python backend development
-* SQL and data analytics
-* Practical AI projects that solve real-world problems
-
----
-
-## 🎯 Current Focus
-
-* Strengthening **Python, SQL, DSA, NumPy, Pandas, and ML fundamentals**
-* Building portfolio-ready projects with clean README files and screenshots
-* Improving backend development using **FastAPI, Django, SQLite, and REST APIs**
-* Learning **Deep Learning, RAG, LLM applications, and Agentic AI**
-* Preparing for **AI/ML, Python backend, GenAI, and data-related roles**
+- Retrieval-Augmented Generation systems
+- LLM-powered applications
+- Python backend development
+- Machine learning and deep learning projects
+- SQL-based data analysis
+- Practical AI systems with clear documentation
 
 ---
 
-## 🛠️ Tech Stack
+## Current Focus
 
-### Programming and Core Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode,pycharm" />
-</p>
-
-* Python
-* SQL
-* R
-* Java basics
-* C basics
-* Object-Oriented Programming
-* Data Structures and Algorithms
-* DBMS
-* Problem Solving
-
-### Backend and Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,sqlite" />
-</p>
-
-* FastAPI
-* Django basics
-* REST APIs
-* SQLite
-* Streamlit
-* Backend workflow design
-
-### Data, AI and Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-</p>
-
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Data Cleaning
-* Exploratory Data Analysis
-* Scikit-learn
-* Machine Learning
-* Deep Learning basics
-* NLP basics
-* RAG
-* LLM Applications
-* PyTorch/TensorFlow project-level exposure
+```text
+Python + SQL fundamentals
+DSA practice
+Machine Learning and Deep Learning
+RAG and LLM applications
+FastAPI / Django backend development
+Project documentation and GitHub portfolio building
+````
 
 ---
 
-## 🚀 Major Projects
+## Tech Stack
 
-### 📄 PolicyDocIQ
+### Languages and Core
 
-A document intelligence system for working with policy and economic reports. The project focuses on document question answering, table extraction, table search, backend APIs, and frontend integration.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-B07219?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-333333?style=flat-square" />
+  <img src="https://img.shields.io/badge/DSA-333333?style=flat-square" />
+</p>
+
+### AI, ML and Data
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-102230?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-4B32C3?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM%20Apps-4B32C3?style=flat-square" />
+</p>
+
+### Backend and Tools
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-333333?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+---
+
+## Featured Projects
+
+### PolicyDocIQ
+
+**RAG-based document intelligence system for policy and economic reports.**
+
+PolicyDocIQ focuses on document question answering, table extraction, table search, backend APIs, and frontend integration for structured and unstructured report analysis.
 
 **Tech:** Python, FastAPI, RAG, Document QA, Table Extraction, Search APIs
-
-**Core Areas:** RAG, Document Intelligence, Economic Reports, Backend API Development
-
----
-
-### 🧠 Cognition-Adaptive AI Tutor
-
-An AI-powered personalized tutoring system that adapts learning based on learner performance, behaviour signals, knowledge tracing, concept dependencies, forgetting patterns, adaptive path selection, and explainable decisions.
-
-**Tech:** Python, SQLite, Machine Learning, RAG, Knowledge Tracing, Behaviour Modelling, Reinforcement Learning
-
-**Core Areas:** Personalized Learning, Knowledge Tracing, Behaviour Modelling, Adaptive Learning, Explainable AI
+**Focus:** RAG, Document Intelligence, Backend API Development
 
 ---
 
-## 🧩 Planned Portfolio Projects
+### Cognition-Adaptive AI Tutor
 
-I am building these projects step by step while strengthening my placement preparation and technical skills.
+**Personalized AI tutoring system for learners with diverse cognitive needs.**
 
-### 🌿 CropGuard AI
+This project adapts the learning path using learner performance, behaviour signals, knowledge tracing, concept dependencies, forgetting patterns, and explainable decision support.
 
-A plant disease detection project using deep learning and computer vision. The goal is to train a CNN-based model, evaluate performance, and build a simple prediction interface.
-
-**Focus:** Deep Learning, CNN, Computer Vision, Model Evaluation, Grad-CAM
-
----
-
-### 🧠 QueryMind
-
-An Agentic AI + SQL project that allows users to ask questions about data and receive SQL-based answers, summaries, and insights.
-
-**Focus:** SQL, Agentic AI, LLMs, Data Querying, Backend APIs
+**Tech:** Python, SQLite, Machine Learning, RAG, Knowledge Tracing, Behaviour Modelling
+**Focus:** Personalized Learning, Adaptive Learning, Explainable AI
 
 ---
 
-### 📊 Retail Sales Dashboard
+## Project Build Queue
 
-A data analytics project focused on sales trends, customer behavior, revenue insights, and dashboard-based reporting.
+These projects are being built step by step as part of my portfolio and placement preparation.
 
-**Focus:** SQL, Pandas, Power BI/Tableau, EDA, Business Analytics
-
----
-
-### 📝 AI Notes Backend API
-
-A backend project for managing notes using authentication, CRUD APIs, database storage, search, and AI-assisted note features.
-
-**Focus:** Python Backend, FastAPI/Django, REST APIs, SQLite, Authentication
+| Project                | Focus Area                          | Status  |
+| ---------------------- | ----------------------------------- | ------- |
+| CropGuard AI           | Deep Learning, CNN, Computer Vision | Planned |
+| QueryMind              | Agentic AI, SQL, LLM Apps           | Planned |
+| Retail Sales Dashboard | SQL, Pandas, BI Dashboarding        | Planned |
+| AI Notes Backend API   | FastAPI/Django, CRUD APIs, Auth     | Planned |
 
 ---
 
-## 📚 Learning Roadmap
+## Learning Roadmap
 
 ```text
 Python → SQL → DSA → NumPy → Pandas → ML → DL → NLP → RAG → LLM Apps → Backend APIs → Deployment
 ```
 
-My approach is:
+My learning approach:
 
 ```text
-Study one concept → Build one small feature → Improve it → Document it → Add it to portfolio
+Learn the concept
+Build a small working feature
+Improve the implementation
+Document clearly
+Push to GitHub
 ```
 
 ---
 
-## 📌 Roles I Am Preparing For
+## Roles I Am Preparing For
 
 * AI/ML Intern
 * Python Backend Developer
-* NLP/RAG/GenAI Intern
+* GenAI / RAG Intern
 * Data Analyst Intern
 * Data Science Intern
-* Software Development Engineer
+* Entry-Level Software Developer
 
 ---
 
-## 📊 GitHub Stats
+## What I Am Improving
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aswani1402&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswani1402&theme=tokyonight" height="170" />
-</p>
+* Writing cleaner Python code
+* Building projects that can be run by others
+* Creating better README documentation
+* Practicing SQL and DSA consistently
+* Connecting AI models with usable backend systems
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswani1402&layout=compact&theme=tokyonight" height="170" />
+---
+
+## Connect With Me
+
+<p>
+  <a href="mailto:aswiniayappan14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aswiniayappan14%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aswani-a-j-933269268/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aswani%20A.%20J-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📫 Connect With Me
-
-* **Email:** [aswiniayappan14@gmail.com](mailto:aswiniayappan14@gmail.com)
-* **LinkedIn:** [linkedin.com/in/aswani-a-j-933269268](https://www.linkedin.com/in/aswani-a-j-933269268/)
-* **GitHub:** [github.com/Aswani1402](https://github.com/Aswani1402)
-
----
-
 <p align="center">
-  <b>Learning by building, documenting my progress, and improving one project at a time.</b>
+  <b>Learning by building practical projects and improving one repository at a time.</b>
 </p>
+```
