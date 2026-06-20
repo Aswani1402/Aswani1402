@@ -59,8 +59,6 @@ Project documentation and GitHub portfolio building
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-B07219?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/OOP-333333?style=flat-square" />
   <img src="https://img.shields.io/badge/DSA-333333?style=flat-square" />
 </p>
