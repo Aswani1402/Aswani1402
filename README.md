@@ -6,7 +6,7 @@ AI & Backend Developer | Python | RAG | Machine Learning | Data Analytics
 </h3>
 
 <p align="center">
-I build practical AI, RAG, backend, and data projects with a focus on clean implementation, useful documentation, and real-world problem solving.
+I build practical AI, RAG, backend, and data projects with a focus on clean implementation, useful documentation, and real-world problem-solving.
 </p>
 
 <p align="center">
